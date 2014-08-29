@@ -9,7 +9,7 @@ nodejs modules node-mysql-libmysqlclient 事务处理模块
 
 
     var Mysql = require('mysql-libmysqlclient');
-    var transaction = require(__dirname + '/transaction.js');
+    var transaction = require(__dirname + '/');
     var client = Mysql.createConnectionSync(
         '192.168.109.40',
         'root',
