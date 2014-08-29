@@ -1,6 +1,6 @@
 {
     "name": "mysql-libmysqlclient-transaction",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "nodejs module node-mysql-libmysqlclient transaction",
     "main": "index.js",
     "directories": {
